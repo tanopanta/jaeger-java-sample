@@ -37,3 +37,7 @@ docker run -d --name jaeger \
 ```
 http://localhost:16686
 ```
+
+## Reference
+- https://opentelemetry.io/blog/2022/jaeger-native-otlp/
+- https://github.com/open-telemetry/opentelemetry-java-examples/tree/main/jaeger/src/main/java/io/opentelemetry/example/jaeger
