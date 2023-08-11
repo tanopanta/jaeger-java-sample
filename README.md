@@ -2,6 +2,8 @@
 
 - opentelemetry client + jaeger
 
+![jaeger-sample.jpg](jaeger-sample.jpg)
+
 ## run
 
 1. setup jaeger
