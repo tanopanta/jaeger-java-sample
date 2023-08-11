@@ -22,6 +22,11 @@ dependencies {
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:30.1.1-jre'
+
+    implementation 'io.opentelemetry:opentelemetry-api:1.28.0'
+    implementation 'io.opentelemetry:opentelemetry-sdk:1.28.0'
+    implementation 'io.opentelemetry:opentelemetry-exporter-otlp:1.28.0'
+    implementation 'io.opentelemetry:opentelemetry-semconv:1.28.0-alpha'
 }
 
 application {
