@@ -8,7 +8,7 @@
 
 1. setup jaeger
 
-- eample) use All in One https://www.jaegertracing.io/docs/1.47/getting-started/
+- example) use All in One https://www.jaegertracing.io/docs/1.47/getting-started/
 ```
 docker run -d --name jaeger \
   -e COLLECTOR_ZIPKIN_HOST_PORT=:9411 \
